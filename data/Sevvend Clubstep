@@ -1,0 +1,18 @@
+{
+    "id": 120255728,
+    "name": "Sevvend Clubstep",
+    "author": "cherryteam",
+    "creators": [],
+    "verifier": "Carv",
+    "verification": "https://www.youtube.com/watch?v=NAMMOJI6mDU",
+    "percentToQualify": 66,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Cudby",
+            "link": "https://www.youtube.com/watch?v=sSPxzdGBiqs",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
