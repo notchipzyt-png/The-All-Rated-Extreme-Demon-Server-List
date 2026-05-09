@@ -1,0 +1,36 @@
+{
+    "id": 71025973,
+    "name": "Oblivion",
+    "author": "dice88",
+    "creators": [],
+    "verifier": "Cudby",
+    "verification": "https://www.youtube.com/watch?v=d2GDf_MSgD8",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "CookedPugs",
+            "link": "https://www.youtube.com/watch?v=ObzLg6ryq-I",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Carv",
+            "link": "https://www.youtube.com/watch?v=Z4iuSiz7dc8",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "G3",
+            "link": "https://www.youtube.com/watch?v=1r5wwGgX5i8",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Girg",
+            "link": "https://www.youtube.com/watch?v=0KsrHI5ZSd4",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
