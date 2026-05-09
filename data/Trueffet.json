@@ -1,0 +1,24 @@
+{
+    "id": 71434979,
+    "name": "Trueffet",
+    "author": "SyQual",
+    "creators": [],
+    "verifier": "Cudby",
+    "verification": "https://www.youtube.com/watch?v=Tn83Y_EUfQQ",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Carv",
+            "link": "https://www.youtube.com/watch?v=0BwgiPZWlVg",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "CookedPugs",
+            "link": "https://www.youtube.com/watch?v=nRN1gFX8U5Q",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
