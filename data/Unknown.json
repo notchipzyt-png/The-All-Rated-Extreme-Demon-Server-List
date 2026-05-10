@@ -3,16 +3,10 @@
     "name": "Unknown",
     "author": "NineDice",
     "creators": [],
-    "verifier": "Cudby",
-    "verification": "https://www.youtube.com/watch?v=vTLY3__kRog",
+    "verifier": "Carv",
+    "verification": "https://www.youtube.com/watch?v=k6uKOsgHgjA",
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "Carv",
-            "link": "https://www.youtube.com/watch?v=k6uKOsgHgjA",
-            "percent": 100,
-            "hz": 240
-        }
     ]
 }
