@@ -3,17 +3,11 @@
     "name": "The Golden",
     "author": "BoBoBoBoBoBoBo",
     "creators": [],
-    "verifier": "Cudby",
-    "verification": "https://www.youtube.com/watch?v=k5hySg-qgMc",
+    "verifier": "Carv",
+    "verification": "https://www.youtube.com/watch?v=dfxP2yDioHM",
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "Carv",
-            "link": "https://www.youtube.com/watch?v=dfxP2yDioHM",
-            "percent": 100,
-            "hz": 240
-        },
         {
             "user": "G3",
             "link": "https://www.youtube.com/watch?v=TOcDddmk2AQ",
