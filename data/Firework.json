@@ -3,16 +3,10 @@
     "name": "Firework",
     "author": "Trick",
     "creators": [],
-    "verifier": "Cudby",
-    "verification": "https://www.youtube.com/watch?v=aMWp2eVJpd8&t=1s",
+    "verifier": "CookedPugs",
+    "verification": "https://www.youtube.com/watch?v=v77WaXCTK2Y",
     "percentToQualify": 71,
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "CookedPugs",
-            "link": "https://www.youtube.com/watch?v=v77WaXCTK2Y",
-            "percent": 100,
-            "hz": 240
-        }
     ]
 }
