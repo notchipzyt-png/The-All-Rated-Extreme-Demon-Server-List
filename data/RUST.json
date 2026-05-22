@@ -1,0 +1,24 @@
+{
+    "id": 71912451,
+    "name": "RUST",
+    "author": "neigefeu",
+    "creators": [],
+    "verifier": "Carv",
+    "verification": "https://www.youtube.com/watch?v=YcrlO2VVxv0",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "CookedPugs",
+            "link": "https://www.youtube.com/watch?v=4NYeAk68o04",
+            "percent": 100,
+            "hz": 240
+        },
+              {
+            "user": "Girg",
+            "link": "https://www.youtube.com/watch?v=w5c6h8Nx_lA",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
