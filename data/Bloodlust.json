@@ -1,0 +1,30 @@
+{
+    "id": 42584142,
+    "name": "Bloodlust",
+    "author": "KnobbelBoy",
+    "creators": [],
+    "verifier": "Carv",
+    "verification": "https://www.youtube.com/watch?v=ynGU-8Ofokw",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Col",
+            "link": "https://www.youtube.com/watch?v=AKuLd8yDhWo&t=12s",
+            "percent": 100,
+            "hz": 240
+        },
+              {
+            "user": "Girg",
+            "link": "https://www.youtube.com/watch?v=8hzQqZS-YlE",
+            "percent": 100,
+            "hz": 240
+        },
+                    {
+            "user": "KalZyx",
+            "link": "https://www.youtube.com/watch?v=TzC1NH0qdHY",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
