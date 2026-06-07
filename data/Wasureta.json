@@ -1,0 +1,30 @@
+{
+    "id": 64658786,
+    "name": "Wasureta",
+    "author": "Helpegasus",
+    "creators": [],
+    "verifier": "Carv",
+    "verification": "https://www.youtube.com/watch?v=bfd1T-sc8Yg",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Obey",
+            "link": "https://www.youtube.com/watch?v=xKYI6NclaE4",
+            "percent": 100,
+            "hz": 240
+        },
+              {
+            "user": "Girg",
+            "link": "https://www.youtube.com/watch?v=msrKeGfzjqo",
+            "percent": 100,
+            "hz": 480
+        },
+                    {
+            "user": "Rubix",
+            "link": "https://www.youtube.com/watch?v=VBpPiZ_zxjY",
+            "percent": 100,
+            "hz": 480
+        }
+  ]
+}
