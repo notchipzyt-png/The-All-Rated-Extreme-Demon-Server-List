@@ -1,0 +1,24 @@
+{
+    "id": 62869408,
+    "name": "Chromatic Haze",
+    "author": "Cirtrax",
+    "creators": [],
+    "verifier": "Carv",
+    "verification": "https://www.youtube.com/watch?v=3WJMefMYo-4",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Girg",
+            "link": "https://www.youtube.com/watch?v=zY6GHiH3A0E",
+            "percent": 100,
+            "hz": 120
+        },
+              {
+            "user": "Hotdoggs",
+            "link": "https://www.youtube.com/watch?v=G2iyeDtyvkE",
+            "percent": 100,
+            "hz": 240
+        }
+  ]
+}
