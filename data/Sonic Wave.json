@@ -1,0 +1,30 @@
+{
+    "id": 68688849,
+    "name": "Sonic Wave",
+    "author": "Sunix",
+    "creators": [],
+    "verifier": "Carv",
+    "verification": "https://www.youtube.com/watch?v=oogVFFHgzD4",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Hotdoggs",
+            "link": "https://www.youtube.com/watch?v=f0Ua8o9bnVs",
+            "percent": 100,
+            "hz": 240
+        },
+              {
+            "user": "Obey",
+            "link": "https://www.youtube.com/watch?v=v5xxzh0o9dg",
+            "percent": 100,
+            "hz": 240
+        },
+                    {
+            "user": "Girg",
+            "link": "https://www.youtube.com/watch?v=g83oBLbLwrk",
+            "percent": 100,
+            "hz": 480
+        }
+  ]
+}
