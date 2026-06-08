@@ -1,0 +1,24 @@
+{
+    "id": 31462941,
+    "name": "Erebus",
+    "author": "BoldStep",
+    "creators": [],
+    "verifier": "Rubix",
+    "verification": "https://www.youtube.com/watch?v=oogVFFHgzD4",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Girg",
+            "link": "https://www.youtube.com/watch?v=KtcFu7rXUgQ",
+            "percent": 100,
+            "hz": 120
+        },
+              {
+            "user": "Col",
+            "link": "https://www.youtube.com/watch?v=8xkSA2zLtvo",
+            "percent": 100,
+            "hz": 240
+        }
+  ]
+}
