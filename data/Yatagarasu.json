@@ -1,0 +1,18 @@
+{
+    "id": 28220417,
+    "name": "Yatagarasu",
+    "author": "TrusTa",
+    "creators": [],
+    "verifier": "Girg",
+    "verification": "https://www.youtube.com/watch?v=EJTxLTpQKVA",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Rubix",
+            "link": "https://www.youtube.com/watch?v=nm_y2k079r8",
+            "percent": 100,
+            "hz": 300
+        }
+  ]
+}
