@@ -1,0 +1,36 @@
+{
+    "id": 26681070,
+    "name": "Sonic Wave",
+    "author": "knobbleboy",
+    "creators": [],
+    "verifier": "Carv",
+    "verification": "https://www.youtube.com/watch?v=LTfPmKJHBsQ",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "KalZyx",
+            "link": "https://www.youtube.com/watch?v=GDUPldtfpl8",
+            "percent": 100,
+            "hz": 360
+        },
+              {
+            "user": "Obey",
+            "link": "https://www.youtube.com/watch?v=2DYyeyFoI_k",
+            "percent": 100,
+            "hz": 300
+        },
+                    {
+            "user": "KiwiKut",
+            "link": "https://www.youtube.com/watch?v=t-h4uT9qdtA",
+            "percent": 100,
+            "hz": 240
+        },
+                          {
+            "user": "Hotdoggs",
+            "link": "https://www.youtube.com/watch?v=wkAjxXs4T-U",
+            "percent": 100,
+            "hz": 240
+        }
+  ]
+}
