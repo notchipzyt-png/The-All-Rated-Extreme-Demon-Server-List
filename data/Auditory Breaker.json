@@ -1,0 +1,30 @@
+{
+    "id": 26681070,
+    "name": "Auditory Breaker",
+    "author": "Sunix",
+    "creators": [],
+    "verifier": "Carv",
+    "verification": "https://www.youtube.com/watch?v=v57Hds1FJfA",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Hotdoggs",
+            "link": "https://www.youtube.com/watch?v=GPry_ooPRCY",
+            "percent": 100,
+            "hz": 240
+        },
+              {
+            "user": "Obey",
+            "link": "https://www.youtube.com/watch?v=huRTlwjWqRo",
+            "percent": 100,
+            "hz": 240
+        },
+                    {
+            "user": "Kinger",
+            "link": "https://www.youtube.com/watch?v=vq9yv0ULfGc",
+            "percent": 100,
+            "hz": 480
+        }
+  ]
+}
