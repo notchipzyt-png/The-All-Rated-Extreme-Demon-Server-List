@@ -1,0 +1,24 @@
+{
+    "id": 38235367,
+    "name": "Quantum Processing",
+    "author": "Riot",
+    "creators": [],
+    "verifier": "Girg",
+    "verification": "https://www.youtube.com/watch?v=HYQUm04sHOE",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Rubix",
+            "link": "https://www.youtube.com/watch?v=RP_g_676C-U",
+            "percent": 100,
+            "hz": 240
+        },
+              {
+            "user": "Hotdoggs",
+            "link": "https://www.youtube.com/watch?v=6rwwPHMSkYc",
+            "percent": 100,
+            "hz": 240
+        }
+  ]
+}
