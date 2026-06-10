@@ -1,0 +1,24 @@
+{
+    "id": 61531210,
+    "name": "Hyper Paradox",
+    "author": "ItsHybrid",
+    "creators": [],
+    "verifier": "Hotdoggs",
+    "verification": "https://www.youtube.com/watch?v=iKW2lT3Oe3M",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Carv",
+            "link": "https://www.youtube.com/watch?v=ifjYc3ZT0H4",
+            "percent": 100,
+            "hz": 120
+        },
+              {
+            "user": "KalZyx",
+            "link": "https://www.youtube.com/watch?v=X8_ZD9SXJh8",
+            "percent": 100,
+            "hz": 360
+        }
+  ]
+}
