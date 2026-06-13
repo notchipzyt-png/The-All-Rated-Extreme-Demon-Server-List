@@ -1,0 +1,18 @@
+{
+    "id": 77008332,
+    "name": "Gravity",
+    "author": "Kaza",
+    "creators": [],
+    "verifier": "Carv",
+    "verification": "https://www.youtube.com/watch?v=IfUTsfjxACI",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Hotdoggs",
+            "link": "https://www.youtube.com/watch?v=A7cMoCXMF3c",
+            "percent": 100,
+            "hz": 240
+        }
+  ]
+}
