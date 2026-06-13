@@ -1,0 +1,30 @@
+{
+    "id": 59899374,
+    "name": "Prismatic Haze",
+    "author": "Cirtrax",
+    "creators": [],
+    "verifier": "Carv",
+    "verification": "https://www.youtube.com/watch?v=akqbI-lsAr0",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "CookedPugs",
+            "link": "https://www.youtube.com/watch?v=DcgkVsh7Dns",
+            "percent": 100,
+            "hz": 240
+        },
+              {
+            "user": "Hotdoggs",
+            "link": "https://www.youtube.com/watch?v=ALNKgJ32h5I",
+            "percent": 100,
+            "hz": 240
+        },
+                    {
+            "user": "KalZyx",
+            "link": "https://www.youtube.com/watch?v=MKzgkuAcV3M",
+            "percent": 100,
+            "hz": 360
+        }
+  ]
+}
