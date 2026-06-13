@@ -1,0 +1,42 @@
+{
+    "id": 8147005,
+    "name": "Down Bass",
+    "author": "Spectruh",
+    "creators": [],
+    "verifier": "Carv",
+    "verification": "https://www.youtube.com/watch?v=lCRqmMGd81E",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+          {
+            "user": "Girg",
+            "link": "https://www.youtube.com/watch?v=MUHBQ3mVGu8",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Rubix",
+            "link": "https://www.youtube.com/watch?v=5RKE6rbksQ4",
+            "percent": 100,
+            "hz": 240
+        },
+              {
+            "user": "Obey",
+            "link": "https://www.youtube.com/watch?v=Htop9dKN-68",
+            "percent": 100,
+            "hz": 240
+        },
+                   {
+            "user": "KalZyx",
+            "link": "https://www.youtube.com/watch?v=8ZGZEcuuYdk",
+            "percent": 100,
+            "hz": 360
+        },
+                         {
+            "user": "Hotdoggs",
+            "link": "https://www.youtube.com/watch?v=HXD9JSvKHrk",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
