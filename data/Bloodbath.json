@@ -1,0 +1,66 @@
+{
+    "id": 10565740,
+    "name": "Bloodbath",
+    "author": "Riot",
+    "creators": [],
+    "verifier": "Carv",
+    "verification": "https://www.youtube.com/watch?v=sE1x-XPUlAE",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Rubix",
+            "link": "https://www.youtube.com/watch?v=SESkJGDIQVU",
+            "percent": 100,
+            "hz": 240
+        },
+              {
+            "user": "Girg",
+            "link": "https://www.youtube.com/watch?v=c-WPGVXl9PY",
+            "percent": 100,
+            "hz": 624
+        },
+                    {
+            "user": "Hotdoggs",
+            "link": "https://www.youtube.com/watch?v=oOpb1GIrISE",
+            "percent": 100,
+            "hz": 240
+        },
+                        {
+            "user": "VKode",
+            "link": "https://www.youtube.com/watch?v=VcMVA52fmlU",
+            "percent": 100,
+            "hz": 144
+        },
+                              {
+            "user": "Obey",
+            "link": "https://www.youtube.com/watch?v=6pVL8wA6Lgo",
+            "percent": 100,
+            "hz": 240
+        },
+                                    {
+            "user": "BadBurd",
+            "link": "https://www.youtube.com/watch?v=ReUWoQL5Pwc",
+            "percent": 100,
+            "hz": 360
+        },
+                                          {
+            "user": "KalZyx",
+            "link": "https://www.youtube.com/watch?v=L85hY91iekA",
+            "percent": 100,
+            "hz": 360
+        },
+                                                {
+            "user": "KiwiKut",
+            "link": "https://www.youtube.com/watch?v=TcKbkKN4MEQ",
+            "percent": 100,
+            "hz": 360
+        },
+                                                      {
+            "user": "Kinger"
+            "link": "https://www.youtube.com/watch?v=HML9_tlEG0A",
+            "percent": 100,
+            "hz": 300
+        },
+  ]
+}
