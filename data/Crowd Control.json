@@ -1,0 +1,36 @@
+{
+    "id": 69491632,
+    "name": "Crowd Control",
+    "author": "zDeadlox",
+    "creators": [],
+    "verifier": "Carv",
+    "verification": "https://www.youtube.com/watch?v=sAV88ReLDs8",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Hotdoggs",
+            "link": "https://www.youtube.com/watch?v=aigAwmya1Zs",
+            "percent": 100,
+            "hz": 240
+        },
+              {
+            "user": "Girg",
+            "link": "https://www.youtube.com/watch?v=ATtQSlBCvgc",
+            "percent": 100,
+            "hz": 144
+        },
+                    {
+            "user": "BadBurd",
+            "link": "https://www.youtube.com/watch?v=guJss5Ib6X4",
+            "percent": 100,
+            "hz": 360
+        },
+                          {
+            "user": "KiwiKut",
+            "link": "https://www.youtube.com/watch?v=Bzr6ZQSQsLA",
+            "percent": 100,
+            "hz": 360
+        }
+  ]
+}
