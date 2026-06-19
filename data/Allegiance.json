@@ -1,0 +1,60 @@
+{
+    "id": 20761188,
+    "name": "Allegiance",
+    "author": "nikroplays",
+    "creators": [],
+    "verifier": "Carv",
+    "verification": "https://www.youtube.com/watch?v=4vRsYCFjAEs",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Col",
+            "link": "https://www.youtube.com/watch?v=IX20HISbukg",
+            "percent": 100,
+            "hz": 240
+        },
+              {
+            "user": "Hotdoggs",
+            "link": "https://www.youtube.com/watch?v=QmfE4wiHZvg",
+            "percent": 100,
+            "hz": 240
+        },
+                    {
+            "user": "Obey",
+            "link": "https://www.youtube.com/watch?v=MMzSHFhOslQ",
+            "percent": 100,
+            "hz": 240
+        },
+                          {
+            "user": "KiwiKut",
+            "link": "https://www.youtube.com/watch?v=8JN0c6ZCm2o",
+            "percent": 100,
+            "hz": 250
+        },
+                                {
+            "user": "Rubix",
+            "link": "https://www.youtube.com/watch?v=Ki1BcnHMeKI",
+            "percent": 100,
+            "hz": 240
+        },
+                                    {
+            "user": "Kinger",
+            "link": "https://www.youtube.com/watch?v=j1Va5WzzQTQ",
+            "percent": 100,
+            "hz": 280
+        },
+                                          {
+            "user": "AndyTheApple",
+            "link": "https://www.youtube.com/watch?v=nH7v9WLQ5Wc",
+            "percent": 100,
+            "hz": 360
+        },
+                                                {
+            "user": "NotChipz",
+            "link": "https://www.youtube.com/watch?v=WKSLHmL45JQ&t=94s",
+            "percent": 100,
+            "hz": 480
+        }
+  ]
+}
