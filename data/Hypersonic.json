@@ -1,0 +1,18 @@
+{
+    "id": 30219145,
+    "name": "Hypersonic",
+    "author": "Viprin",
+    "creators": [],
+    "verifier": "Hotdoggs",
+    "verification": "https://www.youtube.com/watch?v=l0QVFSVBCkU",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "KalZyx",
+            "link": "https://www.youtube.com/watch?v=SbVpnSiPRD8",
+            "percent": 100,
+            "hz": 360
+        }
+  ]
+}
