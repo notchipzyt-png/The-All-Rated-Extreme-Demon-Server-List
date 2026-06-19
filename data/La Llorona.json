@@ -1,0 +1,18 @@
+{
+    "id": 92362284,
+    "name": "La Llorona",
+    "author": "CherryTeam",
+    "creators": [],
+    "verifier": "Carv",
+    "verification": "https://www.youtube.com/watch?v=5UGRCUlhGt4",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "VKode",
+            "link": "https://www.youtube.com/watch?v=hePEp89BHVI",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
