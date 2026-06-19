@@ -1,0 +1,24 @@
+{
+    "id": 77114615,
+    "name": "doradura",
+    "author": "IvashkaUA",
+    "creators": [],
+    "verifier": "CookedPugs",
+    "verification": "https://www.youtube.com/watch?v=V-h3LJ4pWXY",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Carv",
+            "link": "https://www.youtube.com/watch?v=6wQIRIf3rgo",
+            "percent": 100,
+            "hz": 240
+        },
+              {
+            "user": "Girg",
+            "link": "https://www.youtube.com/watch?v=ATtQSlBCvgc&t=31s",
+            "percent": 100,
+            "hz": 480
+        }
+  ]
+}
