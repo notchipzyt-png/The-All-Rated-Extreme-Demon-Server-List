@@ -11,10 +11,6 @@ const scale = 3;
  * @returns {Number}
  */
 export function score(rank, percent, minPercent) {
-    if (rank > 75 && percent < 100) {
-        return 0;
-    }
-
     // Old formula
     /*
     let score = (100 / Math.sqrt((rank - 1) / 50 + 0.444444) - 50) *
