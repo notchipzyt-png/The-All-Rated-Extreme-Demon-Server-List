@@ -1,0 +1,18 @@
+{
+    "id": 55985772,
+    "name": "Tech Manifestation",
+    "author": "Pleoslim",
+    "creators": [],
+    "verifier": "Carv",
+    "verification": "https://www.youtube.com/watch?v=65d7AZ3uBaQ",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Hotdoggs",
+            "link": "https://www.youtube.com/watch?v=TlIZCh44qCE",
+            "percent": 100,
+            "hz": 240
+        }
+  ]
+}
