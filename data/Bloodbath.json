@@ -3,11 +3,17 @@
     "name": "Bloodbath",
     "author": "Riot",
     "creators": [],
-    "verifier": "Carv",
-    "verification": "https://www.youtube.com/watch?v=sE1x-XPUlAE",
+    "verifier": "Aspect",
+    "verification": "https://www.youtube.com/watch?v=N8evN4hNfgc",
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
+               {
+            "user": "Carv",
+            "link": "https://www.youtube.com/watch?v=sE1x-XPUlAE",
+            "percent": 100,
+            "hz": 240
+        },
         {
             "user": "Rubix",
             "link": "https://www.youtube.com/watch?v=SESkJGDIQVU",
