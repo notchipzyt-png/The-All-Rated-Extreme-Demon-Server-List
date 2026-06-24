@@ -1,0 +1,18 @@
+{
+    "id": 89807521,
+    "name": "FISH FISH GODMODE",
+    "author": "whoiskeve",
+    "creators": [],
+    "verifier": "Carv",
+    "verification": "https://www.youtube.com/watch?v=aQMswBJXUvM",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Hotdoggs",
+            "link": "https://www.youtube.com/watch?v=kP4rRoKFxJA",
+            "percent": 100,
+            "hz": 240
+        }
+  ]
+}
