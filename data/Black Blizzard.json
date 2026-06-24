@@ -3,11 +3,17 @@
     "name": "Black Blizzard",
     "author": "KrmaL",
     "creators": [],
-    "verifier": "Rubix",
-    "verification": "https://www.youtube.com/watch?v=ewnQTxBUiEQ",
+    "verifier": "Tizzicality",
+    "verification": "https://www.youtube.com/watch?v=FDKFsMSExrU",
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
+                {
+            "user": "Rubix",
+            "link": "https://www.youtube.com/watch?v=ewnQTxBUiEQ",
+            "percent": 100,
+            "hz": 240
+        },
         {
             "user": "Girg",
             "link": "https://www.youtube.com/watch?v=lB128vfJgvw",
