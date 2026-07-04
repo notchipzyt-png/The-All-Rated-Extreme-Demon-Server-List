@@ -1,0 +1,78 @@
+{
+    "id": 3979721,
+    "name": "Cataclysm",
+    "author": "GgB0y",
+    "creators": [],
+    "verifier": "KalZyx",
+    "verification": "https://www.youtube.com/watch?v=GHpmch8mj0E",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Rubix",
+            "link": "https://medal.tv/games/geometry-dash/clips/hXI0YVyTJZvjoTRfb",
+            "percent": 100,
+            "hz": 240
+        },
+              {
+            "user": "Carv",
+            "link": "https://www.youtube.com/watch?v=6uXWiSt_Xog",
+            "percent": 100,
+            "hz": 60
+        },
+                    {
+            "user": "Col",
+            "link": "https://www.youtube.com/watch?v=DGhDZJBDGcY",
+            "percent": 100,
+            "hz": 240
+        },
+                          {
+            "user": "Hotdoggs",
+            "link": "https://www.youtube.com/watch?v=uZV42OWGgf4",
+            "percent": 100,
+            "hz": 165
+        },
+                                {
+            "user": "Girg",
+            "link": "https://www.youtube.com/watch?v=lU-M9kEju80",
+            "percent": 100,
+            "hz": 360
+        },
+                                      {
+            "user": "Obey",
+            "link": "https://www.youtube.com/watch?v=j43DEtIAZnw",
+            "percent": 100,
+            "hz": 240
+        },
+                                            {
+            "user": "Obey",
+            "link": "https://www.youtube.com/watch?v=j43DEtIAZnw",
+            "percent": 100,
+            "hz": 240
+        },
+                                                  {
+            "user": "VKode",
+            "link": "https://www.youtube.com/watch?v=mNfdpMcTrus",
+            "percent": 100,
+            "hz": 144
+        },
+                                                        {
+            "user": "Aspect",
+            "link": "https://www.youtube.com/watch?v=OeH_gKn-3-I",
+            "percent": 100,
+            "hz": 240
+        },
+                                                             {
+            "user": "KiwiKut",
+            "link": "https://www.youtube.com/watch?v=fyxazYdqlbo",
+            "percent": 100,
+            "hz": 360
+        },
+                                                                   {
+            "user": "Kinger",
+            "link": "https://www.youtube.com/watch?v=M0SeqtGz-fo",
+            "percent": 100,
+            "hz": 240
+        }
+  ]
+}
