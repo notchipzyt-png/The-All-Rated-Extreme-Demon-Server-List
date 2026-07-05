@@ -1,0 +1,24 @@
+{
+    "id": 88943354,
+    "name": "Proteus",
+    "author": "SpergQuos",
+    "creators": [],
+    "verifier": "Carv",
+    "verification": "https://www.youtube.com/watch?v=5SZfJLaBH5A",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+          {
+            "user": "Hotdoggs",
+            "link": "https://www.youtube.com/watch?v=QmNQNXyUnxg",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "CookedPugs",
+            "link": "https://www.youtube.com/watch?v=J9pYRhkfung",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
