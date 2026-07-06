@@ -1,0 +1,30 @@
+{
+    "id": 60197839,
+    "name": "Precipitance",
+    "author": "Extravagon",
+    "creators": [],
+    "verifier": "CookedPugs",
+    "verification": "https://www.youtube.com/watch?v=xEsIfvPxbTI",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Hotdoggs",
+            "link": "https://www.youtube.com/watch?v=n3CxDtoN9Ok",
+            "percent": 100,
+            "hz": 240
+        },
+              {
+            "user": "Carv",
+            "link": "https://www.youtube.com/watch?v=WaVAR2_q-VU",
+            "percent": 100,
+            "hz": 240
+        },
+                    {
+            "user": "Rubix",
+            "link": "https://www.youtube.com/watch?v=A7UkMlB4eGg",
+            "percent": 100,
+            "hz": 240
+        }
+  ]
+}
