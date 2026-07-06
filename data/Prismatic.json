@@ -1,0 +1,42 @@
+{
+    "id": 107341811,
+    "name": "Prismatic",
+    "author": "CatGeo",
+    "creators": [],
+    "verifier": "Carv",
+    "verification": "https://www.youtube.com/watch?v=UYjdzxTol_Q",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+                {
+            "user": "Rubix",
+            "link": "https://www.youtube.com/watch?v=ZHlnRr4xbEQ",
+            "percent": 100,
+            "hz": 240
+        },
+                      {
+            "user": "Hotdoggs",
+            "link": "https://www.youtube.com/watch?v=7YdrCqosd1k",
+            "percent": 100,
+            "hz": 240
+        },
+                            {
+            "user": "KalZyx",
+            "link": "https://www.youtube.com/watch?v=FYwYXtKoHxE",
+            "percent": 100,
+            "hz": 240
+        },
+                                  {
+            "user": "Kinger",
+            "link": "https://www.youtube.com/watch?v=sbMBm1gUgO4",
+            "percent": 100,
+            "hz": 360
+        },
+                                        {
+            "user": "Girg",
+            "link": "https://www.youtube.com/watch?v=T-cLSfwdgHY",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
