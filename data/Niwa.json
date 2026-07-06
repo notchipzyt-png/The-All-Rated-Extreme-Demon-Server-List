@@ -1,0 +1,49 @@
+{
+    "id": 64658786,
+    "name": "Niwa",
+    "author": "Helpegasus",
+    "creators": [],
+    "verifier": "Carv",
+    "verification": "https://www.youtube.com/watch?v=P90I5sM0HI8",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Obey",
+            "link": "https://www.youtube.com/watch?v=dZe0_yK8XP0",
+            "percent": 100,
+            "hz": 240
+        },
+              {
+            "user": "VKode",
+            "link": "https://www.youtube.com/watch?v=5zLlHB8MLR8",
+            "percent": 100,
+            "hz": 144
+        },
+                    {
+            "user": "Girg",
+            "link": "https://www.youtube.com/watch?v=3rGqoBghF98",
+            "percent": 100,
+            "hz": 480
+        },
+                          {
+            "user": "Rubix",
+            "link": "https://www.youtube.com/watch?v=3rGqoBghF98",
+            "percent": 100,
+            "hz": 240
+        },
+                               {
+            "user": "KalZyx",
+            "link": "https://www.youtube.com/watch?v=Fa3W_AebCo4",
+            "percent": 100,
+            "hz": 360
+        },
+                                     {
+            "user": "AndyTheApple",
+            "link": "https://www.youtube.com/watch?v=l88xXu6ei-s",
+            "percent": 100,
+            "hz": 360
+        }
+  ]
+  ]
+}
