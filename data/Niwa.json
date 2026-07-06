@@ -43,6 +43,12 @@
             "link": "https://www.youtube.com/watch?v=l88xXu6ei-s",
             "percent": 100,
             "hz": 360
+        },
+                                             {
+            "user": "Hotdoggs",
+            "link": "https://www.youtube.com/watch?v=kBj3r8hbmdI",
+            "percent": 100,
+            "hz": 240
         }
   ]
 }
