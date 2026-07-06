@@ -1,0 +1,60 @@
+{
+    "id": 81148582,
+    "name": "Sweater Weather",
+    "author": "VelYT",
+    "creators": [],
+    "verifier": "Rubix",
+    "verification": "https://www.youtube.com/watch?v=dmpGG2YEmWE",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+                {
+            "user": "Carv",
+            "link": "https://www.youtube.com/watch?v=O9qlst_L0fE",
+            "percent": 100,
+            "hz": 240
+        },
+                      {
+            "user": "Obey",
+            "link": "https://www.youtube.com/watch?v=KHGL4Waoeg8",
+            "percent": 100,
+            "hz": 240
+        },
+                            {
+            "user": "Col",
+            "link": "https://www.youtube.com/watch?v=ycBUV3RRrpk",
+            "percent": 100,
+            "hz": 240
+        },
+                                  {
+            "user": "Aspect",
+            "link": "https://www.youtube.com/watch?v=KC6e0xpocV8",
+            "percent": 100,
+            "hz": 240
+        },
+                                        {
+            "user": "Girg",
+            "link": "https://www.youtube.com/watch?v=yS6hMrGS5CI",
+            "percent": 100,
+            "hz": 360
+        },
+                                        {
+            "user": "Hotdoggs",
+            "link": "https://www.youtube.com/watch?v=Jeeh_2Jp9J4",
+            "percent": 100,
+            "hz": 240
+        },
+                                               {
+            "user": "Kinger",
+            "link": "https://www.youtube.com/watch?v=Ea_IYSfvyzE",
+            "percent": 100,
+            "hz": 360
+        },
+                                                     {
+            "user": "NotChipz",
+            "link": "https://www.youtube.com/watch?v=tpCMXi1oDmM",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
