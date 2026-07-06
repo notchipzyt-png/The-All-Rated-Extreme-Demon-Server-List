@@ -1,0 +1,18 @@
+{
+    "id": 114933189,
+    "name": "Through The Decay",
+    "author": "spark",
+    "creators": [],
+    "verifier": "Hotdoggs",
+    "verification": "https://www.youtube.com/watch?v=iw3hGnHjHtk",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+                       {
+            "user": "Rubix",
+            "link": "https://www.youtube.com/watch?v=gM6XDswFwfQ",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
