@@ -1,16 +1,16 @@
 [
     {
-        "role": "Owner",
+        "role": "owner",
         "name": "Chipz",
         "link": "https://www.youtube.com/@NotChipzPlaysYT"
     },
     {
-        "role": "Website Owner",
+        "role": "admin",
         "name": "Chipz",
         "link": "https://www.youtube.com/@ObeyMiniNinja"
     },
     {
-        "role": "Website Co-Owner",
+        "role": "admin",
         "name": "Chipz",
         "link": "https://www.youtube.com/@NotChipzPlaysYT"
     },
