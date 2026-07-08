@@ -37,6 +37,12 @@
             "link": "https://www.youtube.com/watch?v=HXD9JSvKHrk",
             "percent": 100,
             "hz": 240
+        },
+                                {
+            "user": "FORM",
+            "link": "https://www.youtube.com/watch?v=LjYZy0tmmPo",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
