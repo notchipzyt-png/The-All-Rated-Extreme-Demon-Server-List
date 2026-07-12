@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
+              {
+            "user": "HarlGD",
+            "link": "https://www.youtube.com/watch?v=Pj3tXTPvp3A",
+            "percent": 100,
+            "hz": 120
+        }
     ]
 }
