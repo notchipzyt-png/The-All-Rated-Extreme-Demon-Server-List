@@ -3,11 +3,17 @@
     "name": "Sigma Interface",
     "author": "Platnuu",
     "creators": [],
-    "verifier": "Hotdoggs",
-    "verification": "https://www.youtube.com/watch?v=2YOpoJP1Q9E",
+    "verifier": "HarlGD",
+    "verification": "https://www.youtube.com/watch?v=njyAWN5a22k",
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
+                        {
+            "user": "Hotdoggs",
+            "link": "https://www.youtube.com/watch?v=2YOpoJP1Q9E",
+            "percent": 100,
+            "hz": 240
+        },
                 {
             "user": "FORM",
             "link": "https://www.youtube.com/watch?v=Dcy9nZ8Tc0U",
