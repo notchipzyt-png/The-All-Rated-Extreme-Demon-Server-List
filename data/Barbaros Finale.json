@@ -3,10 +3,16 @@
     "name": "Barbaros Finale",
     "author": "Moffe",
     "creators": [],
-    "verifier": "Girg",
-    "verification": "https://www.youtube.com/watch?v=CmFqXN3NELo",
+    "verifier": "HarlGD",
+    "verification": "https://www.youtube.com/watch?v=Y0IeW8tlcAk",
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
+            {
+            "user": "Girg",
+            "link": "https://www.youtube.com/watch?v=CmFqXN3NELo",
+            "percent": 100,
+            "hz": 480
+        }
     ]
 }
