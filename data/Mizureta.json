@@ -3,10 +3,16 @@
     "name": "Mizureta",
     "author": "dutchiee",
     "creators": [],
-    "verifier": "Carv",
-    "verification": "https://www.youtube.com/watch?v=xpjGel-xY3g",
+    "verifier": "HarlGD",
+    "verification": "https://www.youtube.com/watch?v=NeZtxMH3QVQ",
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
+                {
+            "user": "Carv",
+            "link": "https://www.youtube.com/watch?v=xpjGel-xY3g",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
