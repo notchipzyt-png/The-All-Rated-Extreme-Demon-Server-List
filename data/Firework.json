@@ -8,11 +8,5 @@
     "percentToQualify": 64,
     "password": "Free To Copy",
     "records": [
-           {
-            "user": "Frozen",
-            "link": "https://www.youtube.com/watch?v=ZlLhT_aVKx8",
-            "percent": 100,
-            "hz": 240
-        }
     ]
 }
