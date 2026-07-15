@@ -8,6 +8,12 @@
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
+               {
+            "user": "Rubix",
+            "link": "https://medal.tv/games/geometry-dash/clips/ij7MIColSmcB0wnlt",
+            "percent": 100,
+            "hz": 240
+        },
         {
             "user": "CookedPugs",
             "link": "https://www.youtube.com/watch?v=DcgkVsh7Dns",
