@@ -3,10 +3,16 @@
     "name": "CONVOLVER",
     "author": "GoldSource",
     "creators": [],
-    "verifier": "Hotdoggs",
-    "verification": "https://www.youtube.com/watch?v=940rJdMKBOs",
+    "verifier": "Rubix",
+    "verification": "https://www.youtube.com/watch?v=Z3EFnTD_9DQ",
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
+                    {
+            "user": "Hotdoggs",
+            "link": "https://www.youtube.com/watch?v=940rJdMKBOs",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
