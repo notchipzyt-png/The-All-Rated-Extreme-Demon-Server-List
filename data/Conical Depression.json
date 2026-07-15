@@ -8,6 +8,12 @@
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
+            {
+            "user": "Rubix",
+            "link": "https://www.youtube.com/watch?v=xmaunswxtGE",
+            "percent": 100,
+            "hz": 240
+        },
         {
             "user": "Girg",
             "link": "https://www.youtube.com/watch?v=OCl4ryiFZw8",
