@@ -3,11 +3,17 @@
     "name": "Hidden in the Sand",
     "author": "ASBCHazel",
     "creators": [],
-    "verifier": "Hotdoggs",
-    "verification": "https://www.youtube.com/watch?v=l0QVFSVBCkU",
+    "verifier": "Carv",
+    "verification": "https://www.youtube.com/watch?v=qX5cHYRW2BI",
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
+               {
+            "user": "Hotdoggs",
+            "link": "https://www.youtube.com/watch?v=l0QVFSVBCkU",
+            "percent": 100,
+            "hz": 240
+        },
         {
             "user": "Kinger",
             "link": "https://www.youtube.com/watch?v=VRVWAt5CLGw",
