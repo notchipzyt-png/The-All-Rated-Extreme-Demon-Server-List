@@ -49,6 +49,12 @@
             "link": "https://www.youtube.com/watch?v=Mn04yH_nwvk",
             "percent": 100,
             "hz": 480
+        },
+                                             {
+            "user": "HarlGD",
+            "link": "https://www.youtube.com/watch?v=vRsIyu9FMnw",
+            "percent": 100,
+            "hz": 240
         }
   ]
 }
