@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
+              {
+            "user": "Dunce",
+            "link": "https://www.youtube.com/watch?v=aYg3vf7PfeI",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
