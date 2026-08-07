@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=RZ-PCdMe-to",
             "percent": 100,
             "hz": 120
+        },
+              {
+            "user": "Rubix",
+            "link": "https://www.youtube.com/watch?v=a6a070qMjNs",
+            "percent": 100,
+            "hz": 600
         }
     ]
 }
