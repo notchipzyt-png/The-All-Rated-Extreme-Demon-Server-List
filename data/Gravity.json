@@ -37,6 +37,12 @@
             "link": "https://www.youtube.com/watch?v=VKzCHKywnbw",
             "percent": 100,
             "hz": 240
+        },
+                        {
+            "user": "AndyTheApple",
+            "link": "https://www.youtube.com/watch?v=J6VzAX-MDo0",
+            "percent": 100,
+            "hz": 360
         }
   ]
 }
