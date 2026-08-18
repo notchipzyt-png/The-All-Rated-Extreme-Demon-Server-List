@@ -32,10 +32,15 @@
             "percent": 100,
             "hz": 360
         },
-        
                         {
             "user": "Kinger",
             "link": "https://www.youtube.com/watch?v=inqhXRqo-VI",
+            "percent": 100,
+            "hz": 360
+        },
+                                {
+            "user": "KalZyx",
+            "link": "https://www.youtube.com/watch?v=nrpcedZybM0",
             "percent": 100,
             "hz": 360
         }
