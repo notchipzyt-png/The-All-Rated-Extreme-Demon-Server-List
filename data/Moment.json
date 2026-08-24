@@ -61,6 +61,12 @@
             "link": "https://www.youtube.com/watch?v=JfGKIpgJH2s",
             "percent": 100,
             "hz": 60
+        },
+                                               {
+            "user": "Col",
+            "link": "https://youtu.be/R4Q25yn50ws",
+            "percent": 100,
+            "hz": 480
         }
   ]
 }
