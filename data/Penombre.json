@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
+                   {
+            "user": "KalZyx",
+            "link": "https://youtu.be/ieZAIScig90?si=97Cz87lt4r9hcwhd",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
