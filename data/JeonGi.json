@@ -3,10 +3,16 @@
     "name": "JeonGi",
     "author": "Lebi06",
     "creators": [],
-    "verifier": "Hotdoggs",
+    "verifier": "Carv",
     "verification": "https://www.youtube.com/watch?v=ZXvYFctbn0Q",
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
+                             {
+            "user": "KalZyx",
+            "link": "https://www.youtube.com/watch?v=O_sWiGOXkwo",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
