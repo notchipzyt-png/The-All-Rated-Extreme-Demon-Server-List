@@ -37,6 +37,12 @@
             "link": "https://www.youtube.com/watch?v=rSJOaeJEpTo",
             "percent": 100,
             "hz": 360
+        },
+                                  {
+            "user": "Obey",
+            "link": "https://www.youtube.com/watch?si=tcTvLlE741h046Va&v=GWJKYsE1o0c&feature=youtu.be",
+            "percent": 100,
+            "hz": 1250
         }
   ]
 }
