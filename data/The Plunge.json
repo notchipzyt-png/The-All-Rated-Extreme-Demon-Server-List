@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=J0DCeM9VJ24",
             "percent": 100,
             "hz": 1000
+        },
+                          {
+            "user": "Laughy",
+            "link": "https://www.youtube.com/watch?v=Gb8dOj0a0rw&t=7s",
+            "percent": 100,
+            "hz": 650
         }
     ]
 }
