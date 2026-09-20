@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=UcOG_SeK_as&t=15s",
             "percent": 100,
             "hz": 1000
+        },
+                       {
+            "user": "Riffle",
+            "link": "https://youtu.be/naCh9JwlCkc?si=9c28CCOAy_EaGT8k",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
