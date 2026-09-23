@@ -55,6 +55,12 @@
             "link": "https://www.youtube.com/watch?v=hpjFGwY2SjY",
             "percent": 100,
             "hz": 360
+        },
+                                      {
+            "user": "Manks",
+            "link": "https://www.youtube.com/watch?v=azFyIsmoEdk",
+            "percent": 100,
+            "hz": 240
         }
   ]
 }
