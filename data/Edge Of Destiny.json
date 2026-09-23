@@ -8,5 +8,11 @@
     "percentToQualify": 73,
     "password": "Free To Copy",
     "records": [
+                        {
+            "user": "Luciid",
+            "link": "https://www.youtube.com/watch?v=fic6lUFHzAE",
+            "percent": 100,
+            "hz": 180
+        }
     ]
 }
