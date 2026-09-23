@@ -3,10 +3,16 @@
     "name": "Silent Clubstep",
     "author": "TheRealSailent",
     "creators": [],
-    "verifier": "Carv",
-    "verification": "https://www.youtube.com/watch?v=tD6d1cFMDB8",
+    "verifier": "Luciid",
+    "verification": "https://www.youtube.com/watch?v=mDGJPu1pAS4",
     "percentToQualify": 63,
     "password": "Free To Copy",
     "records": [
+                  {
+            "user": "Carv",
+            "link": "https://www.youtube.com/watch?v=tD6d1cFMDB8",
+            "percent": 100,
+            "hz": 240
+        },
     ]
 }
