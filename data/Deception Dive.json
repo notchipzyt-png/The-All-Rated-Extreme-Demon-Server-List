@@ -14,6 +14,12 @@
             "percent": 100,
             "hz": 240
         },
+                                            {
+            "user": "Luciid",
+            "link": "https://www.youtube.com/watch?v=qVxXRz6GS6A&t=6s",
+            "percent": 100,
+            "hz": 360
+        },
               {
             "user": "Hotdoggs",
             "link": "https://www.youtube.com/watch?v=xPwhgIgKOcU",
@@ -31,12 +37,6 @@
             "link": "https://www.youtube.com/watch?v=SdzgYogcUB0",
             "percent": 100,
             "hz": 600
-        },
-                                    {
-            "user": "Luciid",
-            "link": "https://www.youtube.com/watch?v=qVxXRz6GS6A&t=6s",
-            "percent": 100,
-            "hz": 360
         }
   ]
 }
