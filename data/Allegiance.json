@@ -20,6 +20,12 @@
             "percent": 100,
             "hz": 240
         },
+                                                    {
+            "user": "Luciid",
+            "link": "https://www.youtube.com/watch?v=e_ZiYbn6lOc",
+            "percent": 100,
+            "hz": 480
+        },
                     {
             "user": "Obey",
             "link": "https://www.youtube.com/watch?v=MMzSHFhOslQ",
@@ -67,12 +73,6 @@
             "link": "https://youtu.be/JnhvZfTws0g?si=k2luUgWACvEZ_8PL",
             "percent": 100,
             "hz": 360
-        },
-                                            {
-            "user": "Luciid",
-            "link": "https://www.youtube.com/watch?v=e_ZiYbn6lOc",
-            "percent": 100,
-            "hz": 480
         }
   ]
 }
