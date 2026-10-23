@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=KJB_iPbgGLs",
             "percent": 100,
             "hz": 240
+        },
+                {
+            "user": "Rubix",
+            "link": "https://youtu.be/HNIiW4z0KLw?si=R8kbUUc_4RlQUbS2",
+            "percent": 100,
+            "hz": 600
         }
     ]
 }
