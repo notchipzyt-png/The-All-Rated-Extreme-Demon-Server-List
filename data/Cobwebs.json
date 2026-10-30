@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=-78x_sydOVA",
             "percent": 100,
             "hz": 240
+        },
+                {
+            "user": "BadBurd",
+            "link": "https://youtu.be/242gNVDUZBw?si=cGg-VVPgpDz2Xjoz",
+            "percent": 100,
+            "hz": 480
         }
     ]
 }
