@@ -11,6 +11,17 @@ export function getMedalClipIdFromUrl(url) {
     )?.[1] ?? '';
 }
 
+export function getTikTokVideoIdFromUrl(url) {
+    try {
+        const parsedUrl = new URL(url);
+        if (!/(^|\.)tiktok\.com$/i.test(parsedUrl.hostname)) return '';
+
+        return parsedUrl.pathname.match(/\/video\/(\d+)/i)?.[1] ?? '';
+    } catch {
+        return '';
+    }
+}
+
 export function embed(video) {
     if (!video) return null;
 
@@ -20,7 +31,12 @@ export function embed(video) {
     }
 
     const youtubeId = getYoutubeIdFromUrl(video);
-    return youtubeId ? `https://www.youtube.com/embed/${youtubeId}` : null;
+    if (youtubeId) return `https://www.youtube.com/embed/${youtubeId}`;
+
+    const tikTokVideoId = getTikTokVideoIdFromUrl(video);
+    return tikTokVideoId
+        ? `https://www.tiktok.com/player/v1/${tikTokVideoId}`
+        : null;
 }
 
 export function localize(num) {
