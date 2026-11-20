@@ -3,11 +3,17 @@
     "name": "poocubed",
     "author": "Liisp",
     "creators": [],
-    "verifier": "Girg",
-    "verification": "https://www.youtube.com/watch?v=JFePV1JCBzk",
+    "verifier": "Duv",
+    "verification": "https://youtu.be/kxd9BMolEQQ?si=shWGCfU04vqiy-ML",
     "percentToQualify": 66,
     "password": "Free To Copy",
     "records": [
+                                {
+            "user": "Girg",
+            "link": "https://www.youtube.com/watch?v=JFePV1JCBzk",
+            "percent": 100,
+            "hz": 480
+        }
                         {
             "user": "Carv",
             "link": "https://youtu.be/18TB57C56Zk?si=vPIJdkzdhGnKlM0k",
