@@ -19,6 +19,18 @@
             "link": "https://www.youtube.com/watch?v=Ljh1Z5XJIC4",
             "percent": 100,
             "hz": 240
+        },
+                  {
+            "user": "AndyTheApple",
+            "link": "https://youtu.be/n6KbvGsjDdY?si=wJz_W3NpCqFF-soV",
+            "percent": 100,
+            "hz": 360
+        },
+                          {
+            "user": "Girg",
+            "link": "https://youtu.be/DMeYfiP-jyI?si=gLy27Rjo8axixvsF",
+            "percent": 100,
+            "hz": 480
         }
   ]
 }
