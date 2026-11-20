@@ -3,10 +3,16 @@
     "name": "CHIL",
     "author": "McCoco",
     "creators": [],
-    "verifier": "Carv",
-    "verification": "https://youtu.be/jhD26Jw409I?si=ECWui88WrP_vLSHr",
+    "verifier": "Duv",
+    "verification": "https://youtu.be/YXsbBLpxhH8?si=OYuGJtfEYhL1Dh6U",
     "percentToQualify": 65,
     "password": "Free To Copy",
     "records": [
+                {
+            "user": "Carv",
+            "link": "https://youtu.be/jhD26Jw409I?si=ECWui88WrP_vLSHr",
+            "percent": 100,
+            "hz": 480
+        }
     ]
 }
