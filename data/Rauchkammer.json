@@ -50,6 +50,12 @@
             "link": "https://www.youtube.com/watch?v=GZxIlwkLyJQ",
             "percent": 100,
             "hz": 360
+        },
+                                               {
+            "user": "Duv",
+            "link": "https://www.youtube.com/watch?v=Dat24cNskDw",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
