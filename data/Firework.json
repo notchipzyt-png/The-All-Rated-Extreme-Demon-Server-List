@@ -8,5 +8,11 @@
     "percentToQualify": 64,
     "password": "Free To Copy",
     "records": [
+                                        {
+            "user": "Duv",
+            "link": "https://youtu.be/-aEnn3dYps8?si=wMGrRxvzBQzx4oME",
+            "percent": 100,
+            "hz": 720
+        }
     ]
 }
